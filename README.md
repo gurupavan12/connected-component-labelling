@@ -10,5 +10,7 @@ The task was to seperate four largest components to the best possibility of the 
 
 
 ## Loogical(Set) Operation
-Logical operations of AND, OR, XOR and NOT of images A ![alt text](match1.gif "Image A") and B ![alt text](match2.gif "Image B") are performed. 
+Logical operations of AND, OR, XOR and NOT of images A  and B are performed. 
+
+![alt text](match1.gif "Image A") ![alt text](match2.gif "Image B") 
 The minimum of images C and D is also performed on ![alt text](cameraman.tif "Image C") and ![alt text](mandril_gray.tif "Image D")
