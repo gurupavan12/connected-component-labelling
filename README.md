@@ -10,3 +10,4 @@ The task was to seperate four largest components to the best possibility of the 
 
 
 ## Loogical(Set) Operation
+Logical operations of AND, OR, XOR and NOT of images A ![alt text](match1. "Original noisy image")
