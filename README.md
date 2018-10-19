@@ -6,8 +6,9 @@ Project-2 as part of EE455 - Digital Image Processing 1. This project considers 
 
 The task was to seperate four largest components to the best possibility of the noisy image. The ouptut image is as follows: 
 
-![alt text](OutputImages/All_Component.tif "Output image with the four largest component merged")
+![alt text](OutputImages/All_Component.gif "Output image with the four largest component merged")
 
 
 ## Loogical(Set) Operation
-Logical operations of AND, OR, XOR and NOT of images A ![alt text](match1. "Original noisy image")
+Logical operations of AND, OR, XOR and NOT of images A ![alt text](match1.gif "Image A") and B ![alt text](match2.gif "Image B") are performed. 
+The minimum of images C and D is also performed on ![alt text](cameraman.tif "Image C") and ![alt text](mandril_gray.tif "Image D")
