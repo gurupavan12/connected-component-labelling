@@ -4,7 +4,7 @@ Project-2 as part of EE455 - Digital Image Processing 1. This project considers 
 ## Bright region extraction
 ![alt text](wheelnoise.gif "Original noisy image")
 The task was to seperate four largest components to the best possibility of the noisy image. The ouptut image is as follows: 
-![alt text](All_component.tif "Description goes here")
+![alt text](OutputImages/All_component.tif "Description goes here")
 
 
 ## Loogical(Set) Operation
