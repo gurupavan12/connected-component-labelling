@@ -6,7 +6,7 @@ Project-2 as part of EE455 - Digital Image Processing 1. This project considers 
 
 The task was to seperate four largest components to the best possibility of the noisy image. The ouptut image is as follows: 
 
-![alt text](OutputImages/All_Componenttif "Output image with hte four largest component merged")
+![alt text](OutputImages/All_Component.gif "Output image with hte four largest component merged")
 
 
 ## Loogical(Set) Operation
